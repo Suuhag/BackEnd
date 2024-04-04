@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: io.sclera.DisiruptiveApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.301 s <<< FAILURE! - in io.sclera.DisiruptiveApplicationTests
+io.sclera.DisiruptiveApplicationTests  Time elapsed: 0.298 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
